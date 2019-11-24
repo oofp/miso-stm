@@ -26,3 +26,5 @@ testView =
     ]  
 
 ```
+
+* More examples are available at: https://github.com/oofp/miso-stm/tree/master/Examples
